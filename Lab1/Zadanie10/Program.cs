@@ -4,19 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zadanie3
+namespace Zadanie10
 {
     class Program
     {
         static void Main(string[] args)
         {
-            String a;
+            String a,b;
             a = Console.ReadLine();
-            Console.WriteLine(SELECT first_name, last_name, group
- FROM students WHERE student_id =);
-}
+            b = Console.ReadLine();
+            Console.Write("INSERT INTO points(x, y) VALUES");
+            Console.Write(a);
+            Console.Write(b);
 
-           
 
+        }
     }
 }

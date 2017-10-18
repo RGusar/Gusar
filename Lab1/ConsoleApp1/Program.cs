@@ -4,19 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zadanie3
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            String a;
-            a = Console.ReadLine();
-            Console.WriteLine(SELECT first_name, last_name, group
- FROM students WHERE student_id =);
-}
-
-           
-
+            Console.Write("Значение Пи= {0:F4}\n" +
+                "Значение e= {1:F4}", Math.PI, Math.E);
+        }
     }
 }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zadanie3
+namespace Zadanie8
 {
     class Program
     {
@@ -12,11 +12,9 @@ namespace Zadanie3
         {
             String a;
             a = Console.ReadLine();
-            Console.WriteLine(SELECT first_name, last_name, group
- FROM students WHERE student_id =);
-}
-
-           
-
+            int A;
+            A = int.Parse(a);
+            Console.WriteLine("\"{0}\"",A);
+              }
     }
 }
