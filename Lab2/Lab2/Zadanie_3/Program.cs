@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zadanie2
+namespace Zadanie_3
 {
     class Program
     {
@@ -16,12 +16,10 @@ namespace Zadanie2
                 Console.WriteLine("Значение edge должно быть положительным");
                 return;
             }
-            int area;
-            area =(int)Math.Pow(edge,2)*6;
-            
-            Console.WriteLine(area);
-        }
-        
+            int result;
+            result = (int)Math.Pow(edge, 3);
 
+            Console.WriteLine(result);
+        }
     }
 }
