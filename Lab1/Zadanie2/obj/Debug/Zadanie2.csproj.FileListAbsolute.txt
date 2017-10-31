@@ -4,3 +4,10 @@ C:\Users\pro-11\Desktop\Gusar\Lab1\Zadanie2\bin\Debug\Zadanie2.pdb
 C:\Users\pro-11\Desktop\Gusar\Lab1\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
 C:\Users\pro-11\Desktop\Gusar\Lab1\Zadanie2\obj\Debug\Zadanie2.exe
 C:\Users\pro-11\Desktop\Gusar\Lab1\Zadanie2\obj\Debug\Zadanie2.pdb
+D:\YandexDisk\Курсы\Основы алгоритмизации\Gusar\Lab1\Zadanie2\bin\Debug\Zadanie2.exe.config
+D:\YandexDisk\Курсы\Основы алгоритмизации\Gusar\Lab1\Zadanie2\bin\Debug\Zadanie2.exe
+D:\YandexDisk\Курсы\Основы алгоритмизации\Gusar\Lab1\Zadanie2\bin\Debug\Zadanie2.pdb
+D:\YandexDisk\Курсы\Основы алгоритмизации\Gusar\Lab1\Zadanie2\obj\Debug\Zadanie2.csprojResolveAssemblyReference.cache
+D:\YandexDisk\Курсы\Основы алгоритмизации\Gusar\Lab1\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Курсы\Основы алгоритмизации\Gusar\Lab1\Zadanie2\obj\Debug\Zadanie2.exe
+D:\YandexDisk\Курсы\Основы алгоритмизации\Gusar\Lab1\Zadanie2\obj\Debug\Zadanie2.pdb

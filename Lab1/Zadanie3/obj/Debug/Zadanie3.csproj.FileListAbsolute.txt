@@ -4,3 +4,6 @@ C:\Users\pro-11\Desktop\Gusar\Lab1\Zadanie3\bin\Debug\Zadanie3.pdb
 C:\Users\pro-11\Desktop\Gusar\Lab1\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
 C:\Users\pro-11\Desktop\Gusar\Lab1\Zadanie3\obj\Debug\Zadanie3.exe
 C:\Users\pro-11\Desktop\Gusar\Lab1\Zadanie3\obj\Debug\Zadanie3.pdb
+D:\YandexDisk\Курсы\Основы алгоритмизации\Gusar\Lab1\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Курсы\Основы алгоритмизации\Gusar\Lab1\Zadanie3\obj\Debug\Zadanie3.exe
+D:\YandexDisk\Курсы\Основы алгоритмизации\Gusar\Lab1\Zadanie3\obj\Debug\Zadanie3.pdb

@@ -11,9 +11,10 @@ namespace Zadanie3
         static void Main(string[] args)
         {
             String a;
-            a = Console.ReadLine();
-            Console.WriteLine(SELECT first_name, last_name, group
- FROM students WHERE student_id =);
+            a = " нас не остановят!";
+            String b;
+            b = Console.ReadLine();
+            Console.WriteLine(b + a); ;
 }
 
            

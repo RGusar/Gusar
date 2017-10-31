@@ -10,11 +10,11 @@ namespace Zadanie2
     {
         static void Main(string[] args)
         { String a;
-            a = Console.ReadLine();
-            Console.Write("Мы стремимся к ");
-         Console.Write(a);
-           
-
+            a = " Мы стремимся к ";
+            String b;
+            b = Console.ReadLine();
+            Console.WriteLine(a + b);
+            
         }
     }
 }
