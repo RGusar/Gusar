@@ -4,20 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zadanie3
+namespace Zadanie5
 {
     class Program
     {
         static void Main(string[] args)
         {
             String a;
-            a = " нас не остановят!";
+            a=Console.ReadLine();
             String b;
-            b = Console.ReadLine();
-            Console.WriteLine(b + a); 
-}
-
-           
-
+            b=Console.ReadLine();
+            
+            Console.Write(b+" "+a);
+        }
     }
 }

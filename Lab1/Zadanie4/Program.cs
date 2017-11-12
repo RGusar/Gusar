@@ -4,18 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zadanie10
+namespace Zadanie4
 {
     class Program
     {
         static void Main(string[] args)
         {
-            String a,b;
-            a = Console.ReadLine();
+            String a;
+            a = "Программирование это";
+            String b;
             b = Console.ReadLine();
-            Console.WriteLine("INSERT INTO points (x, y) VALUES (" + \""a + ";" +b);
-       //Console.Write("<point x=\"" + x + "\" y=\"" + y + "\">");
 
+            Console.Write(a);
+            Console.WriteLine(" "+ b + "!");
+                 
 
         }
     }
