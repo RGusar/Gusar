@@ -10,22 +10,26 @@ namespace Zadanie6
     {
         static void Main(string[] args)
         {
-            int a;
-            a = Convert.ToInt32(Console.ReadLine());
+            long a;
+            a = Convert.ToInt64(Console.ReadLine());
 
-            int b;
-            b = Convert.ToInt32(Console.ReadLine());
+            long b;
+            b = Convert.ToInt64(Console.ReadLine());
 
-            int i;
-            i = 0;
-
-            if (a > b)
-            {
-               // while (b < a)
+            if (a < b)
+            while (a <= b)
                 {
-                    i=
-                }
-            }
+                    Console.WriteLine(a);
+                    a = a + 1;
+                } 
+
+            else
+             while (a >= b)
+            {
+                Console.WriteLine(b);
+                b = b + 1;
+                } 
+                    
         }
     }
 }
